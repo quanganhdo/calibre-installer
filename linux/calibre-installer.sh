@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## Set defaults
-sourcefiles="https://github.com/eli-schwartz/calibre-installer/raw/master/linux/"
+sourcefiles="https://github.com/quanganhdo/calibre-installer/raw/master/linux/"
 prefix=""
 installwith="wget -nv -P"
 

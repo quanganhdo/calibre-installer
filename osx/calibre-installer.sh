@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Set the location of calibre-upgrade and launchd plist.
-upgrade_script=https://github.com/eli-schwartz/calibre-installer/raw/master/osx/calibre-upgrade.sh
-launchd_plist=https://github.com/eli-schwartz/calibre-installer/raw/master/osx/com.calibre.updater.plist
+upgrade_script=https://github.com/quanganhdo/calibre-installer/raw/master/osx/calibre-upgrade.sh
+launchd_plist=https://github.com/quanganhdo/calibre-installer/raw/master/osx/com.calibre.updater.plist
 
 # Functions
 
